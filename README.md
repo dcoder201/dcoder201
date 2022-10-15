@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dcoder201
-- 👀 I’m interested in Web development, Cyber security, Python, Machine learning and Cloud services
+- 👀 I’m interested in Web development, Cyber security, Python, UI/UX Designing, Machine learning and Cloud services
 - 🌱 I’m currently learning Full stack development along with Data structures 
 - 📫 reach me #firozkhan6541@gmail.com
 
